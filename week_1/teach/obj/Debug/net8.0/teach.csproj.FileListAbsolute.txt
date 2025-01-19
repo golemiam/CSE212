@@ -1,0 +1,14 @@
+C:\Users\Golem\Downloads\cse212-ww-student-template-main\cse212-ww-student-template-main\week01\teach\obj\Debug\net8.0\teach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Golem\Downloads\cse212-ww-student-template-main\cse212-ww-student-template-main\week01\teach\obj\Debug\net8.0\teach.AssemblyInfoInputs.cache
+C:\Users\Golem\Downloads\cse212-ww-student-template-main\cse212-ww-student-template-main\week01\teach\obj\Debug\net8.0\teach.AssemblyInfo.cs
+C:\Users\Golem\Downloads\cse212-ww-student-template-main\cse212-ww-student-template-main\week01\teach\obj\Debug\net8.0\teach.csproj.CoreCompileInputs.cache
+C:\Users\Golem\Downloads\cse212-ww-student-template-main\cse212-ww-student-template-main\week01\teach\bin\Debug\net8.0\teach.exe
+C:\Users\Golem\Downloads\cse212-ww-student-template-main\cse212-ww-student-template-main\week01\teach\bin\Debug\net8.0\teach.deps.json
+C:\Users\Golem\Downloads\cse212-ww-student-template-main\cse212-ww-student-template-main\week01\teach\bin\Debug\net8.0\teach.runtimeconfig.json
+C:\Users\Golem\Downloads\cse212-ww-student-template-main\cse212-ww-student-template-main\week01\teach\bin\Debug\net8.0\teach.dll
+C:\Users\Golem\Downloads\cse212-ww-student-template-main\cse212-ww-student-template-main\week01\teach\bin\Debug\net8.0\teach.pdb
+C:\Users\Golem\Downloads\cse212-ww-student-template-main\cse212-ww-student-template-main\week01\teach\obj\Debug\net8.0\teach.dll
+C:\Users\Golem\Downloads\cse212-ww-student-template-main\cse212-ww-student-template-main\week01\teach\obj\Debug\net8.0\refint\teach.dll
+C:\Users\Golem\Downloads\cse212-ww-student-template-main\cse212-ww-student-template-main\week01\teach\obj\Debug\net8.0\teach.pdb
+C:\Users\Golem\Downloads\cse212-ww-student-template-main\cse212-ww-student-template-main\week01\teach\obj\Debug\net8.0\teach.genruntimeconfig.cache
+C:\Users\Golem\Downloads\cse212-ww-student-template-main\cse212-ww-student-template-main\week01\teach\obj\Debug\net8.0\ref\teach.dll
